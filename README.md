@@ -2,6 +2,7 @@
   <h1>Hi there!👋, I'm Luis Fernando Pinillos Sanchez</h1>
   <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVmNjd0dzZ2OGw1cTIwYzZzZ3c2NjZtNWIyNHp1dGM3bGU2bjNmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"
     width = 200/>
+  <h3>A Software Engineering Student with a curious mind and love for technology. I'm on an exciting journey to learn and understand the numerous intricacies of this ever-evolving tech world</h3>
 </div>
 
 
