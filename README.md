@@ -11,7 +11,7 @@
     <li>🌱 I’m currently learning <strong>Python, MySQL and Microsoft Azure</strong</li>
     <li>💬 Ask me about <strong>Java and Azure</strong></li>
     <li>📚 I'm fluent in spanish and english and I'm currently learning japanese🎌!</li>
-    <li>📫 How to reach me:<strong>pinillosluisfer@gmail.com</strong></li>
+    <li>📫 How to reach me:<strong> pinillosluisfer@gmail.com</strong></li>
     
   </ul>
 </div>
