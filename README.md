@@ -1,7 +1,9 @@
 <div id = "header" align = "center">
-  <h1>Hi there!👋, I'm Luis Fernando Pinillos</h1>
+  <h1>Hi there!👋, I'm Luis Fernando Pinillos Sanchez</h1>
+  <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVmNjd0dzZ2OGw1cTIwYzZzZ3c2NjZtNWIyNHp1dGM3bGU2bjNmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"
+    width = 200/>
 </div>
-### Hi there 👋
+
 
 
 
