@@ -16,6 +16,11 @@
   </ul>
 </div>
 
+<div>
+  <h2>Languages and tools:</h2>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+</div>
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=lpinillos&show_icons=true&theme=tokyonight&count_private=true) 
 <div align = "right">
   ![lpinillos' github stats](https://github-readme-stats.vercel.app/api?username=lpinillos&show_icons=true&theme=tokyonight)
