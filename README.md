@@ -16,7 +16,7 @@
   </ul>
 </div>
 
-[![lpinillos' GitHub stats](https://github-readme-stats.vercel.app/apilpinillos=anuraghazra)](https://github.com/lpinillos/github-readme-stats)
+[![lpinillos' GitHub stats](https://github-readme-stats.vercel.app/apilpinillos=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
