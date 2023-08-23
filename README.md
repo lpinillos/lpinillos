@@ -15,19 +15,36 @@
     
   </ul>
 </div>
-
 <div>
   <h2>Languages and tools:</h2>
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a target="_blank"> <img src="" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a target = "_blank">![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)</a>
+  <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' alt='java' height='30'>
+  <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='html' height='30'>
+  <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt='python' height='30'>
+  <img src='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white' alt='django' height='30'>
+  <img src='https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white' alt='r' height='30'>
+  <img src='https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white' alt='azure' height='30'>
+  <img src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white' alt='vs' height='30'>
+  <img src='https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white' alt='intellij' height='30'>
+  <img src='https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white' alt='rstudio' height='30'>
+  <img src='https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white' alt='jira' height='30'>
+  <img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>
+  <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt='git' height='30'>
 </div>
+<br>
+<div>
+  <h2>Education Platforms</h2>
+  <img src='https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A' alt='codeAcademy' height='30'>
+  <img src='https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white' alt='microLearn' height='30'>
+  <img src='https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white' alt='udemy' height='30'>
+</div>
+
+<div>
+  <h2>Contact me:</h2>
+</div>
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=lpinillos&show_icons=true&theme=tokyonight&count_private=true) 
 ![lpinillos' github stats](https://github-readme-stats.vercel.app/api?username=lpinillos&show_icons=true&theme=tokyonight)
-
-
 
 <!--
 **lpinillos/lpinillos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
