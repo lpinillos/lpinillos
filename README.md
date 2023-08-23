@@ -16,9 +16,8 @@
   </ul>
 </div>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=lpinillos&show_icons=true&theme=dark&count_private=true) 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=lpinillos&show_icons=true&theme=tokyonight&count_private=true) 
 ![lpinillos' github stats](https://github-readme-stats.vercel.app/api?username=lpinillos&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lpinillos&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="lpinillos" width="47%">
 
 
 <!--
