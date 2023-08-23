@@ -16,9 +16,8 @@
   </ul>
 </div>
 
-[![lpinillos' GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lpinillos&theme=tokyonight)](https://git.io/praveenscience)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=lpinillos&show_icons=true&theme=dark&count_private=true)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=lpinillos&show_icons=true&theme=dark&count_private=true) 
+![lpinillos' github stats](https://github-readme-stats.vercel.app/api?username=lpinillos&show_icons=true&theme=tokyonight)
 
 <!--
 **lpinillos/lpinillos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
