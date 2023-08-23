@@ -16,7 +16,8 @@
   </ul>
 </div>
 
-[![lpinillos' GitHub stats](https://github-readme-stats.vercel.app/apilpinillos=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lpinillos&theme=tokyonight)](https://git.io/praveenscience)
+
 
 
 <!--
