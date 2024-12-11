@@ -8,8 +8,8 @@
 <div id = "aboutMe" align = "left">
   <h2>About me:</h2>
   <ul>
-    <li>🌱 I’m currently learning <strong>Python, MySQL and Microsoft Azure</strong</li>
-    <li>💬 Ask me about <strong>Java and Azure</strong></li>
+    <li>🌱 I’m currently learning <strong>Cybersecurity and AI</strong</li>
+    <li>💬 Ask me about <strong>Sentinel One, Axur and Python</strong></li>
     <li>📚 I'm fluent in spanish and english and I'm currently learning japanese🎌!</li>
     <li>📫 How to reach me:<strong> pinillosluisfer@gmail.com</strong></li>
     
