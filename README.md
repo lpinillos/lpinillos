@@ -11,7 +11,7 @@
     <li>🌱 I’m currently learning <strong>Cybersecurity and AI</strong</li>
     <li>💬 Ask me about <strong>Sentinel One, Axur and Python</strong></li>
     <li>📚 I'm fluent in spanish and english and I'm currently learning japanese🎌!</li>
-    <li>📫 How to reach me:<strong> pinillosluisfer@gmail.com</strong></li>
+    <li>📫 How to reach me:<strong> luisferpinillos2004@gmail.com</strong></li>
     
   </ul>
 </div>
